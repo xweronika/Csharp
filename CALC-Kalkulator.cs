@@ -78,8 +78,6 @@ namespace ConsoleApp4
                 }
 
 
-                // while (true) ;
-
                 k++;
             } while (k<100);
             
