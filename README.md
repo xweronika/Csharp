@@ -2,12 +2,13 @@
 
 Solved problems in C# from Polish SPOJ.
 
-![Alt text](http://dev-dev.pl/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=505&a=true&file=spoj.png&t=uoGtssd1aOJS4pF&scalingup=0)
+![spoj](https://user-images.githubusercontent.com/44413511/106394358-91906580-63fc-11eb-8890-9013364be410.png)
 
-![Alt text](http://dev-dev.pl/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=505&a=true&file=spoj1.png&t=X6eM5AbeYRJaI6b&scalingup=0)
+![spoj1](https://user-images.githubusercontent.com/44413511/106394360-9228fc00-63fc-11eb-8436-8a2d8c38a231.png)
 
-![Alt text](http://dev-dev.pl/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=505&a=true&file=spoj3.png&t=YXjky4JnPoK6WUi&scalingup=0)
+![spoj2](https://user-images.githubusercontent.com/44413511/106394361-9228fc00-63fc-11eb-8221-df5ead53810a.png)
 
-![Alt text](http://dev-dev.pl/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=505&a=true&file=spoj2.png&t=QkeJpi1fFemaE0J&scalingup=0)
+![spoj3](https://user-images.githubusercontent.com/44413511/106394363-92c19280-63fc-11eb-9409-8d723f6761cf.png)
 
-![Alt text](http://dev-dev.pl/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=505&a=true&file=spoj4.png&t=eafLTKqOMtUzhzx&scalingup=0)
+![spoj4](https://user-images.githubusercontent.com/44413511/106394365-92c19280-63fc-11eb-9e01-96e257d23cd4.png)
+
